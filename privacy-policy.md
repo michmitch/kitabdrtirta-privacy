@@ -40,7 +40,19 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
+### Data Retention Policy
+We retain your personal information (such as your name, email address, gender, location, and pictures) only for as long as necessary to provide you with the Service and fulfill the purposes outlined in this Privacy Policy. 
+
+* **Account & User Data:** This app doesn't provide account creation nor collecting user data
+* **Third-Party Data:** This app doesn't collect any data nor share data to any Third-Party services
+
+### Data Deletion & User Rights
+You have the right to request the deletion of any information in this app at any time.
+
+* **How to Request Deletion:** You can request to delete any information by emailing us directly at michaelchris1417@gmail.com with the subject line "Data Deletion Request".
+* **Deletion Timeline:** Upon receiving your request, we will process and delete your personal data from our servers within 30 days, except where retention is required by applicable laws or for legitimate legal/security purposes.
+
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:  
-Email: michaelchris1417@gmail.com
+Email: michaelchris1417@gmail.com  
